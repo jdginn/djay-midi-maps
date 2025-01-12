@@ -1,2 +1,2 @@
-# traktor-s4mk1-djay
-MIDI mappings for Traktor Kontrol S4mk1 in Algoriddim Djay
+# djay-midi-maps
+MIDI mappings for various DJ controllers for Algoriddim Djay
